@@ -1,12 +1,12 @@
 # 🤖 História do Mascote Android
 
-![Banner do Projeto Android](https://furiousofnightgames.github.io/pagina-android/imagens/dan-droids.png)
+![Banner do Projeto Android](https://furiousofnightgames.github.io/pagina_android/imagens/dan-droids.png)
 
 ## 📱 Sobre o Projeto
 
 Este projeto é um site interativo que conta a fascinante história do mascote do Android, desde sua concepção inicial até se tornar o adorável Bugdroid que conhecemos hoje. O site foi desenvolvido com foco em design responsivo e experiência do usuário.
 
-### ✨ [Clique aqui para ver o site ao vivo!](https://furiousofnightgames.github.io/pagina-android/)
+### ✨ [Clique aqui para ver o site ao vivo!](https://furiousofnightgames.github.io/pagina_android/)
 
 ## 🚀 Funcionalidades
 
